@@ -1,0 +1,1 @@
+Test to use polymorphic type treatment to add handling ability and enable addition of enough type information in Json messages. Than so that deserializer can instantiate correct subtype of a value, even if declaration of the field/setter/creator method only has single type (supertype) defined.
